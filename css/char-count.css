@@ -1,0 +1,11 @@
+.label-char-count {
+    position: absolute;
+    top: -10px;
+    right: -15px;
+    display: inline-block;
+    background-color: #34BC9D;
+    padding: 1px 3px 0px 3px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 12px;
+}
