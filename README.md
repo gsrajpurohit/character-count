@@ -13,7 +13,7 @@ Inside the page's head tag include the char-count's CSS file.
 In the page's footer, just before, include the required JavaScript files.
 
 ```
-<script src="js/charCount.min.js"></script>
+<script src="js/char-count.min.js"></script>
 ```
 
 ### 3. Create the HTML markup
@@ -24,11 +24,11 @@ In the page's footer, just before, include the required JavaScript files.
 <script type="text/javascript">
     jQuery( document ).ready(function( $ ) { 
         $( '#my-input' ).char_count({ 
-            maxValue: 10,
+            maxValue: 30,
             showMaxValue: true,
             background: "#34BC00",
             hideOnBlur: false,
-            position: "bottom", 
+            position: "top", 
         }); 
     }); 
 </script>
@@ -38,7 +38,7 @@ In the page's footer, just before, include the required JavaScript files.
 
 ### Support
 If you found a bug or have a feature suggestion, please email me on rajpurohitganpat@gmail.com.
-If you need help with implementing the colorbox in your project feel free to contact me on rajpurohitganpat@gmail.com.
+If you need help with implementing the char-count in your project feel free to contact me on rajpurohitganpat@gmail.com.
 
 License The plugin is available under the [MIT license](https://opensource.org/licenses/MIT).
 
