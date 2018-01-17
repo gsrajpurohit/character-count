@@ -34,7 +34,7 @@ In the page's footer, just before, include the required JavaScript files.
 </script>
 ```
 ### Demo
-[Demo](http://jsfiddle.net/g_s_rajpurohit/n6ts50y8/1/).
+[Demo](https://jsfiddle.net/g_s_rajpurohit/ucdgj9yt/4/).
 
 ### Support
 If you found a bug or have a feature suggestion, please email me on rajpurohitganpat@gmail.com.
