@@ -34,7 +34,7 @@ In the page's footer, just before, include the required JavaScript files.
 </script>
 ```
 ### Demo
-[Demo](https://jsfiddle.net/g_s_rajpurohit/ucdgj9yt/4/).
+[Demo](https://gsrajpurohit.github.io/character-count/).
 
 ### Support
 If you found a bug or have a feature suggestion, please email me on rajpurohitganpat@gmail.com.
